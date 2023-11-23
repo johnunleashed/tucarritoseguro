@@ -270,36 +270,4 @@
   .u-section-4 .u-text-1 {
     margin-right: 0;
   }
-}.u-section-5 .u-sheet-1 {
-  min-height: 681px;
-}
-
-.u-section-5 .u-map-1 {
-  width: 1040px;
-  height: 481px;
-  margin: 51px auto 60px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-5 .u-map-1 {
-    width: 940px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-5 .u-map-1 {
-    width: 720px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-5 .u-map-1 {
-    width: 540px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-5 .u-map-1 {
-    width: 340px;
-  }
 }
